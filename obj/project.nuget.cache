@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMXHlauDHAwUoTYNMlKg0dOPKXH8Qy3+wH9/Y37Xyop+kGCgeBPAtwei+nctSUq0nyj0EEa3NZyVeBdVY/rk9A==",
+  "success": true,
+  "projectFilePath": "F:\\affan coding\\C#\\challenges\\Two Pointer\\LeastNumInArr\\LeastNumInArr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AFFAN\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "C:\\Users\\AFFAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.5\\microsoft.netcore.app.host.win-x64.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
