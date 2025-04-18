@@ -1,0 +1,15 @@
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\bin\Debug\net8.0\LeastNumInArr.exe
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\bin\Debug\net8.0\LeastNumInArr.deps.json
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\bin\Debug\net8.0\LeastNumInArr.runtimeconfig.json
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\bin\Debug\net8.0\LeastNumInArr.dll
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\bin\Debug\net8.0\LeastNumInArr.pdb
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.GeneratedMSBuildEditorConfig.editorconfig
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.AssemblyInfoInputs.cache
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.AssemblyInfo.cs
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.csproj.CoreCompileInputs.cache
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.sourcelink.json
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.dll
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\refint\LeastNumInArr.dll
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.pdb
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\LeastNumInArr.genruntimeconfig.cache
+F:\affan coding\C#\challenges\Two Pointer\LeastNumInArr\obj\Debug\net8.0\ref\LeastNumInArr.dll
