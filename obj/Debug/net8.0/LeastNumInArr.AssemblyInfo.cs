@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeastNumInArr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6c1d0dd6a18aaa7a2b74e4b636da902aa38dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7347b04e82897aa7c36125c4897148804e21d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeastNumInArr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeastNumInArr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

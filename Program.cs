@@ -10,6 +10,7 @@ namespace LeastNumInArr
             int[] num = { 8, 5, 10, 9, 7, 2 };
 
             int minInt = num.Min();
+            
 
             Console.WriteLine(minInt);
 
